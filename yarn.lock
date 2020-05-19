@@ -4785,7 +4785,7 @@ quill-delta@^3.6.2:
 
 "quill@https://github.com/affinity/quill.git#1.3.7":
   version "1.3.7"
-  resolved "https://github.com/affinity/quill.git#aee577f88a2b6ce9dd7bb0a0b1973d2c19627772"
+  resolved "https://github.com/affinity/quill.git#435aafbb84220dc2fb8ba2399e06217e4879df62"
   dependencies:
     clone "^2.1.1"
     deep-equal "^1.0.1"
